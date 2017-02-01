@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FocoBaseDeDatos", "FocoBaseDeDatos\FocoBaseDeDatos.shproj", "{870C4D48-CF20-4100-8F65-8ACB7062C271}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FocoBaseDeDatos\FocoBaseDeDatos.projitems*{870c4d48-cf20-4100-8f65-8acb7062c271}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
